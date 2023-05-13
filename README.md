@@ -58,4 +58,4 @@ Pull Requests are welcome.
 
 ## Find Vanced App?
 
-Go here: [VancedApp]("https://github.com/appjson/VancedApp")
+Go here: [VancedApp](https://github.com/appjson/VancedApp)
