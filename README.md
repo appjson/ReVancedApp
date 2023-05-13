@@ -14,33 +14,27 @@
 
 **Tap file name to download**
 
-└─files_here
+### microG
 
-    ├─microG
+- [microg_220220001.apk](./files_here/microG/microg_220220001.apk)
 
-    │      [microg_220220001.apk](./files_here/microG/microg_220220001.apk)
+- [microg_231613000.apk](./files_here/microG/microg_231613000.apk)
 
-    │      [microg_231613000.apk](./files_here/microG/microg_231613000.apk)
+### YT
 
-    │
+- [youtube-revanced-v17.49.37-all.apk](./files_here/YT/youtube-revanced-v17.49.37-all.apk)
 
-    ├─YT
+- [youtube-revanced-v18.16.37-all.apk](./files_here/YT/youtube-revanced-v18.16.37-all.apk)
 
-    │      [youtube-revanced-v17.49.37-all.apk](./files_here/YT/youtube-revanced-v17.49.37-all.apk)
-    
-    │      [youtube-revanced-v18.16.37-all.apk](./files_here/YT/youtube-revanced-v18.16.37-all.apk)
+- [youtube-revanced-extended-v18.17.43-all.apk](./files_here/YT/youtube-revanced-extended-v18.17.43-all.apk)
 
-    │      [youtube-revanced-extended-v18.17.43-all.apk](./files_here/YT/youtube-revanced-extended-v18.17.43-all.apk)
+### YT Music
 
-    │
+- [music-revanced-v5.39.52-arm64-v8a.apk](./files_here/YT%20Music/music-revanced-v5.39.52-arm64-v8a.apk)
 
-    └─YT Music
+- [youtube-music-revanced-extended-v6.01.55-arm64-v8a.apk](./files_here/YT%20Music/youtube-music-revanced-extended-v6.01.55-arm64-v8a.apk)
 
-            [music-revanced-v5.39.52-arm64-v8a.apk](./files_here/YT%20Music/music-revanced-v5.39.52-arm64-v8a.apk)
-
-            [youtube-music-revanced-extended-v6.01.55-arm-v7a.apk](./files_here/YT%20Music/youtube-music-revanced-extended-v6.01.55-arm-v7a.apk)
-
-            [youtube-music-revanced-extended-v6.01.55-arm64-v8a.apk](./files_here/YT%20Music/youtube-music-revanced-extended-v6.01.55-arm64-v8a.apk)
+- [youtube-music-revanced-extended-v6.01.55-arm-v7a.apk](./files_here/YT%20Music/youtube-music-revanced-extended-v6.01.55-arm-v7a.apk)
 
 
 ## Installation
